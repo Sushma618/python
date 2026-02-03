@@ -1,4 +1,4 @@
-Python Introduction & PVM
+Python Introduction
 
 1. Python is a **high-level, interpreted programming language**.
 2. It is easy to learn and uses **simple, readable syntax**.
