@@ -137,6 +137,10 @@ Use del keyword to remove a variable.
 temp = 999
 print(temp)
 del temp
+
+temp1 = 1000
+print(temp1)
+del=temp1
 # print(temp)  # NameError if uncommented
 
 
