@@ -140,13 +140,7 @@ del temp
 # print(temp)  # NameError if uncommented
 
 
-"""
-BEST PRACTICES
---------------
-- Use meaningful variable names
-- Follow snake_case
-- Avoid single-letter names
-"""
+
 
 # -------------------------------
 # 9. BEST PRACTICE EXAMPLE
